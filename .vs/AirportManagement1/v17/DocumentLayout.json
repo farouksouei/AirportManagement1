@@ -1,0 +1,586 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nouss\\OneDrive\\Bureau\\.NET\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3523321-AD28-42B6-8C2C-96B3C3E968C9}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\nouss\\onedrive\\bureau\\.net\\am.applicationcore\\services\\serviceplane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3523321-AD28-42B6-8C2C-96B3C3E968C9}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\services\\serviceplane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3523321-AD28-42B6-8C2C-96B3C3E968C9}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\nouss\\onedrive\\bureau\\.net\\am.applicationcore\\interfaces\\iserviceplane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3523321-AD28-42B6-8C2C-96B3C3E968C9}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\interfaces\\iserviceplane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3523321-AD28-42B6-8C2C-96B3C3E968C9}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\nouss\\onedrive\\bureau\\.net\\am.applicationcore\\interfaces\\iserviceflight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3523321-AD28-42B6-8C2C-96B3C3E968C9}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\interfaces\\iserviceflight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3523321-AD28-42B6-8C2C-96B3C3E968C9}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\nouss\\onedrive\\bureau\\.net\\am.applicationcore\\services\\serviceflight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3523321-AD28-42B6-8C2C-96B3C3E968C9}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\services\\serviceflight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3523321-AD28-42B6-8C2C-96B3C3E968C9}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\nouss\\onedrive\\bureau\\.net\\am.applicationcore\\services\\servicepassenger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3523321-AD28-42B6-8C2C-96B3C3E968C9}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\services\\servicepassenger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3523321-AD28-42B6-8C2C-96B3C3E968C9}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\nouss\\onedrive\\bureau\\.net\\am.applicationcore\\domain\\plane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3523321-AD28-42B6-8C2C-96B3C3E968C9}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\domain\\plane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3523321-AD28-42B6-8C2C-96B3C3E968C9}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\nouss\\onedrive\\bureau\\.net\\am.applicationcore\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3523321-AD28-42B6-8C2C-96B3C3E968C9}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3523321-AD28-42B6-8C2C-96B3C3E968C9}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\nouss\\onedrive\\bureau\\.net\\am.applicationcore\\interfaces\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3523321-AD28-42B6-8C2C-96B3C3E968C9}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\interfaces\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3523321-AD28-42B6-8C2C-96B3C3E968C9}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\nouss\\onedrive\\bureau\\.net\\am.applicationcore\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3523321-AD28-42B6-8C2C-96B3C3E968C9}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3523321-AD28-42B6-8C2C-96B3C3E968C9}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\nouss\\onedrive\\bureau\\.net\\am.applicationcore\\services\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3523321-AD28-42B6-8C2C-96B3C3E968C9}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\services\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3523321-AD28-42B6-8C2C-96B3C3E968C9}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\nouss\\onedrive\\bureau\\.net\\am.applicationcore\\domain\\traveller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3523321-AD28-42B6-8C2C-96B3C3E968C9}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\domain\\traveller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3523321-AD28-42B6-8C2C-96B3C3E968C9}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\nouss\\onedrive\\bureau\\.net\\am.applicationcore\\domain\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3523321-AD28-42B6-8C2C-96B3C3E968C9}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\domain\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3523321-AD28-42B6-8C2C-96B3C3E968C9}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\nouss\\onedrive\\bureau\\.net\\am.applicationcore\\domain\\passenger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3523321-AD28-42B6-8C2C-96B3C3E968C9}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\domain\\passenger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3523321-AD28-42B6-8C2C-96B3C3E968C9}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\nouss\\onedrive\\bureau\\.net\\am.applicationcore\\domain\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3523321-AD28-42B6-8C2C-96B3C3E968C9}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\domain\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3523321-AD28-42B6-8C2C-96B3C3E968C9}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\nouss\\onedrive\\bureau\\.net\\am.applicationcore\\services\\flightmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3523321-AD28-42B6-8C2C-96B3C3E968C9}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\services\\flightmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3523321-AD28-42B6-8C2C-96B3C3E968C9}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\nouss\\onedrive\\bureau\\.net\\am.applicationcore\\services\\passengerextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3523321-AD28-42B6-8C2C-96B3C3E968C9}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\services\\passengerextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3523321-AD28-42B6-8C2C-96B3C3E968C9}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\nouss\\onedrive\\bureau\\.net\\am.applicationcore\\interfaces\\iservicepassenger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3523321-AD28-42B6-8C2C-96B3C3E968C9}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\interfaces\\iservicepassenger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74CB2B98-3D76-42AC-BED0-D6F671556CB0}|AM.Infrastructure\\AM.Infrastructure.csproj|c:\\users\\nouss\\onedrive\\bureau\\.net\\am.infrastructure\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74CB2B98-3D76-42AC-BED0-D6F671556CB0}|AM.Infrastructure\\AM.Infrastructure.csproj|solutionrelative:am.infrastructure\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74CB2B98-3D76-42AC-BED0-D6F671556CB0}|AM.Infrastructure\\AM.Infrastructure.csproj|c:\\users\\nouss\\onedrive\\bureau\\.net\\am.infrastructure\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74CB2B98-3D76-42AC-BED0-D6F671556CB0}|AM.Infrastructure\\AM.Infrastructure.csproj|solutionrelative:am.infrastructure\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F53AC5D6-5E41-40C9-AC65-629D8AD41214}|AM.UI.Console\\AM.UI.Console.csproj|c:\\users\\nouss\\onedrive\\bureau\\.net\\am.ui.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F53AC5D6-5E41-40C9-AC65-629D8AD41214}|AM.UI.Console\\AM.UI.Console.csproj|solutionrelative:am.ui.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74CB2B98-3D76-42AC-BED0-D6F671556CB0}|AM.Infrastructure\\AM.Infrastructure.csproj|c:\\users\\nouss\\onedrive\\bureau\\.net\\am.infrastructure\\migrations\\20250310115853_conf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74CB2B98-3D76-42AC-BED0-D6F671556CB0}|AM.Infrastructure\\AM.Infrastructure.csproj|solutionrelative:am.infrastructure\\migrations\\20250310115853_conf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74CB2B98-3D76-42AC-BED0-D6F671556CB0}|AM.Infrastructure\\AM.Infrastructure.csproj|c:\\users\\nouss\\onedrive\\bureau\\.net\\am.infrastructure\\amcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74CB2B98-3D76-42AC-BED0-D6F671556CB0}|AM.Infrastructure\\AM.Infrastructure.csproj|solutionrelative:am.infrastructure\\amcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3523321-AD28-42B6-8C2C-96B3C3E968C9}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\nouss\\onedrive\\bureau\\.net\\am.applicationcore\\domain\\tickets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3523321-AD28-42B6-8C2C-96B3C3E968C9}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\domain\\tickets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74CB2B98-3D76-42AC-BED0-D6F671556CB0}|AM.Infrastructure\\AM.Infrastructure.csproj|c:\\users\\nouss\\onedrive\\bureau\\.net\\am.infrastructure\\configurations\\ticketconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74CB2B98-3D76-42AC-BED0-D6F671556CB0}|AM.Infrastructure\\AM.Infrastructure.csproj|solutionrelative:am.infrastructure\\configurations\\ticketconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74CB2B98-3D76-42AC-BED0-D6F671556CB0}|AM.Infrastructure\\AM.Infrastructure.csproj|c:\\users\\nouss\\onedrive\\bureau\\.net\\am.infrastructure\\configurations\\flightconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74CB2B98-3D76-42AC-BED0-D6F671556CB0}|AM.Infrastructure\\AM.Infrastructure.csproj|solutionrelative:am.infrastructure\\configurations\\flightconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74CB2B98-3D76-42AC-BED0-D6F671556CB0}|AM.Infrastructure\\AM.Infrastructure.csproj|c:\\users\\nouss\\onedrive\\bureau\\.net\\am.infrastructure\\configurations\\passengerconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74CB2B98-3D76-42AC-BED0-D6F671556CB0}|AM.Infrastructure\\AM.Infrastructure.csproj|solutionrelative:am.infrastructure\\configurations\\passengerconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3523321-AD28-42B6-8C2C-96B3C3E968C9}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\nouss\\onedrive\\bureau\\.net\\am.applicationcore\\domain\\testdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3523321-AD28-42B6-8C2C-96B3C3E968C9}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\domain\\testdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74CB2B98-3D76-42AC-BED0-D6F671556CB0}|AM.Infrastructure\\AM.Infrastructure.csproj|c:\\users\\nouss\\onedrive\\bureau\\.net\\am.infrastructure\\configurations\\planeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74CB2B98-3D76-42AC-BED0-D6F671556CB0}|AM.Infrastructure\\AM.Infrastructure.csproj|solutionrelative:am.infrastructure\\configurations\\planeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3523321-AD28-42B6-8C2C-96B3C3E968C9}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\nouss\\onedrive\\bureau\\.net\\am.applicationcore\\domain\\fullname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3523321-AD28-42B6-8C2C-96B3C3E968C9}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\domain\\fullname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74CB2B98-3D76-42AC-BED0-D6F671556CB0}|AM.Infrastructure\\AM.Infrastructure.csproj|c:\\users\\nouss\\onedrive\\bureau\\.net\\am.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74CB2B98-3D76-42AC-BED0-D6F671556CB0}|AM.Infrastructure\\AM.Infrastructure.csproj|solutionrelative:am.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3523321-AD28-42B6-8C2C-96B3C3E968C9}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\nouss\\onedrive\\bureau\\.net\\am.applicationcore\\interfaces\\iflightmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3523321-AD28-42B6-8C2C-96B3C3E968C9}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\interfaces\\iflightmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74CB2B98-3D76-42AC-BED0-D6F671556CB0}|AM.Infrastructure\\AM.Infrastructure.csproj|c:\\users\\nouss\\onedrive\\bureau\\.net\\am.infrastructure\\migrations\\20250307113905_fluent-api.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74CB2B98-3D76-42AC-BED0-D6F671556CB0}|AM.Infrastructure\\AM.Infrastructure.csproj|solutionrelative:am.infrastructure\\migrations\\20250307113905_fluent-api.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74CB2B98-3D76-42AC-BED0-D6F671556CB0}|AM.Infrastructure\\AM.Infrastructure.csproj|c:\\users\\nouss\\onedrive\\bureau\\.net\\am.infrastructure\\migrations\\20250307111204_newairport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74CB2B98-3D76-42AC-BED0-D6F671556CB0}|AM.Infrastructure\\AM.Infrastructure.csproj|solutionrelative:am.infrastructure\\migrations\\20250307111204_newairport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74CB2B98-3D76-42AC-BED0-D6F671556CB0}|AM.Infrastructure\\AM.Infrastructure.csproj|c:\\users\\nouss\\onedrive\\bureau\\.net\\am.infrastructure\\migrations\\20250310115754_tickets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74CB2B98-3D76-42AC-BED0-D6F671556CB0}|AM.Infrastructure\\AM.Infrastructure.csproj|solutionrelative:am.infrastructure\\migrations\\20250310115754_tickets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74CB2B98-3D76-42AC-BED0-D6F671556CB0}|AM.Infrastructure\\AM.Infrastructure.csproj|c:\\users\\nouss\\onedrive\\bureau\\.net\\am.infrastructure\\migrations\\20250310114320_ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74CB2B98-3D76-42AC-BED0-D6F671556CB0}|AM.Infrastructure\\AM.Infrastructure.csproj|solutionrelative:am.infrastructure\\migrations\\20250310114320_ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Plane.cs",
+              "DocumentMoniker": "C:\\Users\\nouss\\OneDrive\\Bureau\\.NET\\AM.ApplicationCore\\Domain\\Plane.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Domain\\Plane.cs",
+              "ToolTip": "C:\\Users\\nouss\\OneDrive\\Bureau\\.NET\\AM.ApplicationCore\\Domain\\Plane.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Domain\\Plane.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvxoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T13:35:03.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IService.cs",
+              "DocumentMoniker": "C:\\Users\\nouss\\OneDrive\\Bureau\\.NET\\AM.ApplicationCore\\Interfaces\\IService.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Interfaces\\IService.cs",
+              "ToolTip": "C:\\Users\\nouss\\OneDrive\\Bureau\\.NET\\AM.ApplicationCore\\Interfaces\\IService.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Interfaces\\IService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvxYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T08:53:40.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\nouss\\OneDrive\\Bureau\\.NET\\AM.ApplicationCore\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\nouss\\OneDrive\\Bureau\\.NET\\AM.ApplicationCore\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T08:46:18.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IServiceFlight.cs",
+              "DocumentMoniker": "C:\\Users\\nouss\\OneDrive\\Bureau\\.NET\\AM.ApplicationCore\\Interfaces\\IServiceFlight.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Interfaces\\IServiceFlight.cs",
+              "ToolTip": "C:\\Users\\nouss\\OneDrive\\Bureau\\.NET\\AM.ApplicationCore\\Interfaces\\IServiceFlight.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Interfaces\\IServiceFlight.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAnwAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T09:00:39.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServiceFlight.cs",
+              "DocumentMoniker": "C:\\Users\\nouss\\OneDrive\\Bureau\\.NET\\AM.ApplicationCore\\Services\\ServiceFlight.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Services\\ServiceFlight.cs",
+              "ToolTip": "C:\\Users\\nouss\\OneDrive\\Bureau\\.NET\\AM.ApplicationCore\\Services\\ServiceFlight.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Services\\ServiceFlight.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T09:02:26.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServicePlane.cs",
+              "DocumentMoniker": "C:\\Users\\nouss\\OneDrive\\Bureau\\.NET\\AM.ApplicationCore\\Services\\ServicePlane.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Services\\ServicePlane.cs",
+              "ToolTip": "C:\\Users\\nouss\\OneDrive\\Bureau\\.NET\\AM.ApplicationCore\\Services\\ServicePlane.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Services\\ServicePlane.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAYwC8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T09:01:41.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IServicePlane.cs",
+              "DocumentMoniker": "C:\\Users\\nouss\\OneDrive\\Bureau\\.NET\\AM.ApplicationCore\\Interfaces\\IServicePlane.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Interfaces\\IServicePlane.cs",
+              "ToolTip": "C:\\Users\\nouss\\OneDrive\\Bureau\\.NET\\AM.ApplicationCore\\Interfaces\\IServicePlane.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Interfaces\\IServicePlane.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T08:59:01.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServicePassenger.cs",
+              "DocumentMoniker": "C:\\Users\\nouss\\OneDrive\\Bureau\\.NET\\AM.ApplicationCore\\Services\\ServicePassenger.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Services\\ServicePassenger.cs",
+              "ToolTip": "C:\\Users\\nouss\\OneDrive\\Bureau\\.NET\\AM.ApplicationCore\\Services\\ServicePassenger.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Services\\ServicePassenger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T09:02:07.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nouss\\OneDrive\\Bureau\\.NET\\AM.ApplicationCore\\Interfaces\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Interfaces\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\nouss\\OneDrive\\Bureau\\.NET\\AM.ApplicationCore\\Interfaces\\IGenericRepository.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Interfaces\\IGenericRepository.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T08:45:56.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\Users\\nouss\\OneDrive\\Bureau\\.NET\\AM.ApplicationCore\\Services\\Service.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Services\\Service.cs",
+              "ToolTip": "C:\\Users\\nouss\\OneDrive\\Bureau\\.NET\\AM.ApplicationCore\\Services\\Service.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Services\\Service.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAAEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T09:14:01.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Passenger.cs",
+              "DocumentMoniker": "C:\\Users\\nouss\\OneDrive\\Bureau\\.NET\\AM.ApplicationCore\\Domain\\Passenger.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Domain\\Passenger.cs",
+              "ToolTip": "C:\\Users\\nouss\\OneDrive\\Bureau\\.NET\\AM.ApplicationCore\\Domain\\Passenger.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Domain\\Passenger.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T13:23:00.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Traveller.cs",
+              "DocumentMoniker": "C:\\Users\\nouss\\OneDrive\\Bureau\\.NET\\AM.ApplicationCore\\Domain\\Traveller.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Domain\\Traveller.cs",
+              "ToolTip": "C:\\Users\\nouss\\OneDrive\\Bureau\\.NET\\AM.ApplicationCore\\Domain\\Traveller.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Domain\\Traveller.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAmwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T09:23:07.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Flight.cs",
+              "DocumentMoniker": "C:\\Users\\nouss\\OneDrive\\Bureau\\.NET\\AM.ApplicationCore\\Domain\\Flight.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Domain\\Flight.cs",
+              "ToolTip": "C:\\Users\\nouss\\OneDrive\\Bureau\\.NET\\AM.ApplicationCore\\Domain\\Flight.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Domain\\Flight.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA6wCUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T14:54:14.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FlightMethods.cs",
+              "DocumentMoniker": "C:\\Users\\nouss\\OneDrive\\Bureau\\.NET\\AM.ApplicationCore\\Services\\FlightMethods.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Services\\FlightMethods.cs",
+              "ToolTip": "C:\\Users\\nouss\\OneDrive\\Bureau\\.NET\\AM.ApplicationCore\\Services\\FlightMethods.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Services\\FlightMethods.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAkwJsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T13:05:43.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PassengerExtension.cs",
+              "DocumentMoniker": "C:\\Users\\nouss\\OneDrive\\Bureau\\.NET\\AM.ApplicationCore\\Services\\PassengerExtension.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Services\\PassengerExtension.cs",
+              "ToolTip": "C:\\Users\\nouss\\OneDrive\\Bureau\\.NET\\AM.ApplicationCore\\Services\\PassengerExtension.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Services\\PassengerExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwBEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T12:51:12.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Staff.cs",
+              "DocumentMoniker": "C:\\Users\\nouss\\OneDrive\\Bureau\\.NET\\AM.ApplicationCore\\Domain\\Staff.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Domain\\Staff.cs",
+              "ToolTip": "C:\\Users\\nouss\\OneDrive\\Bureau\\.NET\\AM.ApplicationCore\\Domain\\Staff.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Domain\\Staff.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA8wB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T13:36:35.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IServicePassenger.cs",
+              "DocumentMoniker": "C:\\Users\\nouss\\OneDrive\\Bureau\\.NET\\AM.ApplicationCore\\Interfaces\\IServicePassenger.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Interfaces\\IServicePassenger.cs",
+              "ToolTip": "C:\\Users\\nouss\\OneDrive\\Bureau\\.NET\\AM.ApplicationCore\\Interfaces\\IServicePassenger.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Interfaces\\IServicePassenger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T09:16:25.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\nouss\\OneDrive\\Bureau\\.NET\\AM.Infrastructure\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "AM.Infrastructure\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\nouss\\OneDrive\\Bureau\\.NET\\AM.Infrastructure\\UnitOfWork.cs",
+              "RelativeToolTip": "AM.Infrastructure\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T08:50:15.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nouss\\OneDrive\\Bureau\\.NET\\AM.Infrastructure\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "AM.Infrastructure\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\nouss\\OneDrive\\Bureau\\.NET\\AM.Infrastructure\\GenericRepository.cs",
+              "RelativeToolTip": "AM.Infrastructure\\GenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T08:49:07.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20250310115754_tickets.cs",
+              "DocumentMoniker": "C:\\Users\\nouss\\OneDrive\\Bureau\\.NET\\AM.Infrastructure\\Migrations\\20250310115754_tickets.cs",
+              "RelativeDocumentMoniker": "AM.Infrastructure\\Migrations\\20250310115754_tickets.cs",
+              "ToolTip": "C:\\Users\\nouss\\OneDrive\\Bureau\\.NET\\AM.Infrastructure\\Migrations\\20250310115754_tickets.cs",
+              "RelativeToolTip": "AM.Infrastructure\\Migrations\\20250310115754_tickets.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T11:57:54.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FlightConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\nouss\\OneDrive\\Bureau\\.NET\\AM.Infrastructure\\Configurations\\FlightConfiguration.cs",
+              "RelativeDocumentMoniker": "AM.Infrastructure\\Configurations\\FlightConfiguration.cs",
+              "ToolTip": "C:\\Users\\nouss\\OneDrive\\Bureau\\.NET\\AM.Infrastructure\\Configurations\\FlightConfiguration.cs",
+              "RelativeToolTip": "AM.Infrastructure\\Configurations\\FlightConfiguration.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAkwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T11:24:38.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TicketConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\nouss\\OneDrive\\Bureau\\.NET\\AM.Infrastructure\\Configurations\\TicketConfiguration.cs",
+              "RelativeDocumentMoniker": "AM.Infrastructure\\Configurations\\TicketConfiguration.cs",
+              "ToolTip": "C:\\Users\\nouss\\OneDrive\\Bureau\\.NET\\AM.Infrastructure\\Configurations\\TicketConfiguration.cs",
+              "RelativeToolTip": "AM.Infrastructure\\Configurations\\TicketConfiguration.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T11:19:02.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nouss\\OneDrive\\Bureau\\.NET\\AM.UI.Console\\Program.cs",
+              "RelativeDocumentMoniker": "AM.UI.Console\\Program.cs",
+              "ToolTip": "C:\\Users\\nouss\\OneDrive\\Bureau\\.NET\\AM.UI.Console\\Program.cs",
+              "RelativeToolTip": "AM.UI.Console\\Program.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAGcAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T13:10:57.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20250310115853_conf.cs",
+              "DocumentMoniker": "C:\\Users\\nouss\\OneDrive\\Bureau\\.NET\\AM.Infrastructure\\Migrations\\20250310115853_conf.cs",
+              "RelativeDocumentMoniker": "AM.Infrastructure\\Migrations\\20250310115853_conf.cs",
+              "ToolTip": "C:\\Users\\nouss\\OneDrive\\Bureau\\.NET\\AM.Infrastructure\\Migrations\\20250310115853_conf.cs",
+              "RelativeToolTip": "AM.Infrastructure\\Migrations\\20250310115853_conf.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T11:58:53.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Tickets.cs",
+              "DocumentMoniker": "C:\\Users\\nouss\\OneDrive\\Bureau\\.NET\\AM.ApplicationCore\\Domain\\Tickets.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Domain\\Tickets.cs",
+              "ToolTip": "C:\\Users\\nouss\\OneDrive\\Bureau\\.NET\\AM.ApplicationCore\\Domain\\Tickets.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Domain\\Tickets.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T11:16:03.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AMContext.cs",
+              "DocumentMoniker": "C:\\Users\\nouss\\OneDrive\\Bureau\\.NET\\AM.Infrastructure\\AMContext.cs",
+              "RelativeDocumentMoniker": "AM.Infrastructure\\AMContext.cs",
+              "ToolTip": "C:\\Users\\nouss\\OneDrive\\Bureau\\.NET\\AM.Infrastructure\\AMContext.cs",
+              "RelativeToolTip": "AM.Infrastructure\\AMContext.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T11:33:11.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20250310114320_ticket.cs",
+              "DocumentMoniker": "C:\\Users\\nouss\\OneDrive\\Bureau\\.NET\\AM.Infrastructure\\Migrations\\20250310114320_ticket.cs",
+              "RelativeDocumentMoniker": "AM.Infrastructure\\Migrations\\20250310114320_ticket.cs",
+              "ToolTip": "C:\\Users\\nouss\\OneDrive\\Bureau\\.NET\\AM.Infrastructure\\Migrations\\20250310114320_ticket.cs",
+              "RelativeToolTip": "AM.Infrastructure\\Migrations\\20250310114320_ticket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T11:43:21.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "PassengerConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\nouss\\OneDrive\\Bureau\\.NET\\AM.Infrastructure\\Configurations\\PassengerConfiguration.cs",
+              "RelativeDocumentMoniker": "AM.Infrastructure\\Configurations\\PassengerConfiguration.cs",
+              "ToolTip": "C:\\Users\\nouss\\OneDrive\\Bureau\\.NET\\AM.Infrastructure\\Configurations\\PassengerConfiguration.cs",
+              "RelativeToolTip": "AM.Infrastructure\\Configurations\\PassengerConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T12:48:24.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "TestData.cs",
+              "DocumentMoniker": "C:\\Users\\nouss\\OneDrive\\Bureau\\.NET\\AM.ApplicationCore\\Domain\\TestData.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Domain\\TestData.cs",
+              "ToolTip": "C:\\Users\\nouss\\OneDrive\\Bureau\\.NET\\AM.ApplicationCore\\Domain\\TestData.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Domain\\TestData.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwB0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T12:41:34.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "PlaneConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\nouss\\OneDrive\\Bureau\\.NET\\AM.Infrastructure\\Configurations\\PlaneConfiguration.cs",
+              "RelativeDocumentMoniker": "AM.Infrastructure\\Configurations\\PlaneConfiguration.cs",
+              "ToolTip": "C:\\Users\\nouss\\OneDrive\\Bureau\\.NET\\AM.Infrastructure\\Configurations\\PlaneConfiguration.cs",
+              "RelativeToolTip": "AM.Infrastructure\\Configurations\\PlaneConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T11:15:58.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FullName.cs",
+              "DocumentMoniker": "C:\\Users\\nouss\\OneDrive\\Bureau\\.NET\\AM.ApplicationCore\\Domain\\FullName.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Domain\\FullName.cs",
+              "ToolTip": "C:\\Users\\nouss\\OneDrive\\Bureau\\.NET\\AM.ApplicationCore\\Domain\\FullName.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Domain\\FullName.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T12:36:02.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\nouss\\OneDrive\\Bureau\\.NET\\AM.Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "AM.Infrastructure\\Class1.cs",
+              "ToolTip": "C:\\Users\\nouss\\OneDrive\\Bureau\\.NET\\AM.Infrastructure\\Class1.cs",
+              "RelativeToolTip": "AM.Infrastructure\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T12:44:15.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20250307113905_fluent-api.cs",
+              "DocumentMoniker": "C:\\Users\\nouss\\OneDrive\\Bureau\\.NET\\AM.Infrastructure\\Migrations\\20250307113905_fluent-api.cs",
+              "RelativeDocumentMoniker": "AM.Infrastructure\\Migrations\\20250307113905_fluent-api.cs",
+              "ToolTip": "C:\\Users\\nouss\\OneDrive\\Bureau\\.NET\\AM.Infrastructure\\Migrations\\20250307113905_fluent-api.cs",
+              "RelativeToolTip": "AM.Infrastructure\\Migrations\\20250307113905_fluent-api.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T11:39:05.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20250307111204_newAirport.cs",
+              "DocumentMoniker": "C:\\Users\\nouss\\OneDrive\\Bureau\\.NET\\AM.Infrastructure\\Migrations\\20250307111204_newAirport.cs",
+              "RelativeDocumentMoniker": "AM.Infrastructure\\Migrations\\20250307111204_newAirport.cs",
+              "ToolTip": "C:\\Users\\nouss\\OneDrive\\Bureau\\.NET\\AM.Infrastructure\\Migrations\\20250307111204_newAirport.cs",
+              "RelativeToolTip": "AM.Infrastructure\\Migrations\\20250307111204_newAirport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T11:12:04.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IFlightMethods.cs",
+              "DocumentMoniker": "C:\\Users\\nouss\\OneDrive\\Bureau\\.NET\\AM.ApplicationCore\\Interfaces\\IFlightMethods.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Interfaces\\IFlightMethods.cs",
+              "ToolTip": "C:\\Users\\nouss\\OneDrive\\Bureau\\.NET\\AM.ApplicationCore\\Interfaces\\IFlightMethods.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Interfaces\\IFlightMethods.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBMAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T15:23:09Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
